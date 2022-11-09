@@ -1,0 +1,48 @@
+.head1 {
+  position: absolute;
+  width: 1440px;
+  height: 80px;
+  left: 0px;
+  top: 0px;
+
+  background: #1e1e30;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.head {
+  position: absolute;
+  width: 130px;
+  height: 24px;
+  left: 150px;
+  top: 28px;
+  color: white;
+
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height, or 120% */
+
+  text-align: center;
+
+  /* Light / blue-gray / 50 */
+
+  color: #f8fafc;
+}
+.span1 {
+  color: blue;
+}
+.ul1 {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+  position: absolute;
+
+  top: 28px;
+}
+.li1 {
+  margin-right: 10px;
+}
